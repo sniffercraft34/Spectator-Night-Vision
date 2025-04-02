@@ -1,0 +1,1 @@
+scoreboard players set @a spec_nv 0
